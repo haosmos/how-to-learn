@@ -30,12 +30,5 @@
 - [Чеклист 1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html);
 - [Чеклист 2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html).
 
-## Скриншот:
-<details><summary><b>Развернуть</b></summary>
-
-[![how-to-learn](https://user-images.githubusercontent.com/86494748/143668881-e2d09c48-100a-4de6-8d44-ccbc7fe5aad9.jpg)](https://ia-stepanov.github.io/how-to-learn/)
-
-</details>
-
 ## Ссылка на сайт:
 https://how-to-learn-three-theta.vercel.app/
